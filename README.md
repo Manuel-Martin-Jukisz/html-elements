@@ -1,10 +1,44 @@
-# HTML elements types overview
+# Navigating the MDN HTML Reference Guide
 
-HTML elements are the fundamental atoms which makeup webpages. Elements may contain a chunk of text, data, media or perhaps nothing.
+## Objectives
 
-Tags come in all shapes and sizes to represent different types of media, meaning, hierarchy, emphasis, etc.
+1. Summarize the content of the Mozilla Developer Network HTML reference guide
+2. Show how to define document metadata
+3. Show content sectioning
+4. Identify text content elements
+5. Construct content with inline text semantics
+6. Summarize image, multimedia, and embeddable content elements
+7. Construct dymanic content with scripting tags
+8. Identify demarcated edits
+9. Display table contents
+10. Display forms
+11. Categorize interactive elements
+12. Construct custom elements with HTML
 
-The [Mozilla Developer Network HTML reference guide](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) organizes HTML elements in the following categories:
+## Problem Statement
+
+You're getting familiar with the fundamentals of HTML are comfortable setting up the skeleton of 
+a new web document. As you start to create and organize various types of content, you notice 
+that it's going to require the knowledge of more elements that make up webpages. These elements 
+may contain a chunk of text, tabular data, media content--or maybe nothing at all, as sometimes
+web elements can be used for spaching as well. Referencing documentation can be intimidating at 
+times, but it'll be a common practice to utilize these resources as a developer. HTML tags come 
+in all shapes and sizes to represent different types of media, meaning, hierarchy, emphasis, etc.
+Leveraage the [Mozilla Developer Network HTML reference guide](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) will help you to organize your HTML 
+elements in the following categories:
+
+## Summarize the content of the Mozilla Developer Network HTML reference guide
+## Show how to define document metadata
+## Show content sectioning
+## Identify text content elements
+## Construct content with inline text semantics
+## Summarize image, multimedia, and embeddable content elements
+## Construct dymanic content with scripting tags
+## Identify demarcated edits
+## Display table contents
+## Display forms
+## Categorize interactive elements
+## Construct custom elements with HTML
 
 - **Document metadata**: *Metadata contains information about the page. This includes information about styles, scripts and data to help software (search engines, browsers, etc.) use and render the page. Metadata for styles and scripts may be defined in the page or link to another file that has the information.*
 - **Content sectioning**: *Content sectioning elements allow you to organize the document content into logical pieces. Use the sectioning elements to create a broad outline for your page content, including header and footer navigation, and heading elements to identify sections of content.*
